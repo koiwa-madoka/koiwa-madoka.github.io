@@ -1,1 +1,1 @@
-# koiwa-madoka.github.io-sample
+# koiwa-madoka.github.io
